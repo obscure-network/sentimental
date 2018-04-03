@@ -783,15 +783,14 @@ caído, -2
 gota, -1
 afogar-se, -2
 afogado, -2
-afoga-se -2
+afoga-se, -2
 bêbado, -2
 duvidoso, -2
-dud, -2
 sem graça, -2
 mudo, -3
 idiota, -3
 despejo, -1
-despejado -2
+despejado, -2
 despejos, -1
 dupe, -2
 enganado, -2
@@ -802,7 +801,6 @@ facilidade, 2
 fácil, 1
 em êxtase, 4
 estranho, -2
-eery, -2
 eficaz, 2
 efetivamente, 2
 exultante, 3
@@ -816,9 +814,8 @@ embaraçoso, -2
 constrangimento, -2
 amargurado, -2
 abraçar, 1
-emergência -2
+emergência, -2
 empático, 2
-vazio, -1
 vazio, -1
 encantado, 2
 incentivar, 2
@@ -838,7 +835,7 @@ absorto, 1
 aproveite, 2
 desfrutando, 2
 gosta, 2
-ilumine 2
+ilumine, 2
 iluminado, 2
 esclarecedor, 2
 ilumina, 2
@@ -855,9 +852,8 @@ assegurar, 1
 assegurando, 1
 empreendedor, 1
 divertido, 2
-enthrall, 3
 entusiasmado, 3
-intitulado 1
+intitulado, 1
 confiada, 2
 inveja, -1
 invejoso, -2
@@ -869,8 +865,8 @@ erros, -2
 escape, -1
 escapa, -1
 escapando, -1
-estimado 2
-ético 2
+estimado, 2
+ético, 2
 euforia, 3
 eufórico, 4
 despejo, -1
