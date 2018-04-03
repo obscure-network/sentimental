@@ -95,7 +95,7 @@ agonizado, -3
 agoniza, -3
 agonizante, -3
 concordo, 1
-agradável 2
+agradável, 2
 concordou, 1
 acordo, 1
 concorda, 1
@@ -107,7 +107,7 @@ ai, -1
 alerta, -1
 alienação, -2
 vivo, 1
-alérgico -2
+alérgico, -2
 permitir, 1
 sozinho, -2
 surpreenda, 2
@@ -119,7 +119,7 @@ ambivalente, -1
 amuse, 3
 divertido, 3
 diversões, 3
-divertimentos 3
+divertimentos, 3
 raiva, -3
 irrita, -3
 zangado, -3
@@ -127,14 +127,14 @@ angústia, -3
 angustiado, -3
 animosidade, -2
 incomodar, -2
-aborrecimento -2
+aborrecimento, -2
 irritado, -2
 chato, -2
 irrita-se -2
 antagonista, -2
 anti, -1
 antecipação, 1
-ansiedade -2
+ansiedade, -2
 ansioso, -2
 apático, -3
 apatia, -3
@@ -198,7 +198,7 @@ atraído, 1
 atraindo, 2
 atração, 2
 atrações, 2
-atrai 1
+atrai, 1
 audacioso, 3
 autoridade, 1
 evite, -1
@@ -226,7 +226,6 @@ ruim, -3
 badass, -3
 mal, -3
 resgate, -2
-bamboozle, -2
 enganado, -2
 bamboozles, -2
 banimento -2
@@ -285,7 +284,6 @@ cego, -1
 felicidade, 3
 feliz, 3
 alegre, 2
-Bloco 1
 blockbuster, 3
 bloqueado, -1
 bloqueio, -1
@@ -345,7 +343,7 @@ cancela, -1
 câncer, -1
 capaz, 1
 cativado, 3
-cuidado 2
+cuidado, 2
 despreocupado, 1
 cuidado, 2
 com cuidado, 2
@@ -367,7 +365,7 @@ desgosto, -2
 envergonhado, -2
 desafio, -1
 chance, 2
-chances 2
+chances, 2
 caos, -2
 caótico, -2
 cobrado, -3
