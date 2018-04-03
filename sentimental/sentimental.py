@@ -8,7 +8,7 @@ class Sentimental(object):
     def __init__(self, word_list=None, negation=None):
         if word_list is None and negation is None:
             base_dir = os.path.dirname(__file__)
-            word_list = [os.path.join(base_dir, p) for p in ['./word_list/afinn.csv', './word_list/russian.csv']]
+            word_list = [os.path.join(base_dir, p) for p in ['./word_list/afinn.csv', './word_list/portuguese.csv']]
             negation = os.path.join(base_dir, './word_list/negations.csv')
 
         self.word_list = {}
@@ -85,7 +85,7 @@ class Sentimental(object):
 
 
 def main():
-    sent = Sentimental(word_list=['./word_list/afinn.csv', './word_list/russian.csv'],
+    sent = Sentimental(word_list=['./word_list/afinn.csv', './word_list/portuguese.csv'],
                        negation='./word_list/negations.csv')
 
     sentences = [
