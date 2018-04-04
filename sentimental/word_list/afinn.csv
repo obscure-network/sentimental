@@ -1164,7 +1164,7 @@ heróis, 2
 heróico, 3
 hesitante, -2
 hesite, -2
-escondeu -1
+escondeu, -1
 esconder, -1
 esconde, -1
 escondendo, -1
@@ -1183,7 +1183,7 @@ honrando, 2
 hooligan, -2
 vandalismo, -2
 hooligans, -2
-esperança 2
+esperança, 2
 esperançoso, 2
 esperançoso, 2
 sem esperança, -2
@@ -1202,9 +1202,8 @@ abraços, 2
 humerous, 3
 humilhado, -3
 humilhação, -3
-humor 2
+humor, 2
 bem humorado, 2
-humor 2
 cómico, 2
 fome, -2
 hurra, 5
@@ -1225,7 +1224,7 @@ ignora, -1
 doente, -2
 ilegal, -3
 analfabetismo, -2
-doença -2
+doença, -2
 doenças, -2
 imbecil, -3
 imobilizado, -1
@@ -1259,8 +1258,8 @@ indignado, -2
 incompetência, -2
 incompetente, -2
 imprudente, -2
-inconveniência -2
-inconveniente -2
+inconveniência, -2
+inconveniente, -2
 aumento, 1
 aumentou, 1
 indeciso, -2
@@ -1325,7 +1324,7 @@ interrogado, -2
 interromper, -2
 interrompido, -2
 interrompendo, -2
-interrupção -2
+interrupção, -2
 interrupções, -2
 intimidar, -2
 intimidado, -2
@@ -1335,7 +1334,7 @@ intimidação, -2
 intrincado, 2
 intrigas, 1
 invencível, 2
-convidar 1
+convidar, 1
 convidativo, 1
 invulnerável, 2
 irado, -3
@@ -1358,7 +1357,7 @@ desenvolto, 2
 ciumento, -2
 perigo, -2
 idiota, -3
-jesus 1
+jesus, 1
 jóia, 1
 jóias, 1
 jocoso, 2
@@ -1374,7 +1373,7 @@ sem alegria, -2
 alegre, 3
 jubilante, 3
 nervoso, -1
-justiça 2
+justiça, 2
 justificadamente, 2
 justificado, 2
 interessado, 1
@@ -1382,19 +1381,18 @@ matar, -3
 morto, -3
 matança, -3
 mata, -3
-tipo 2
+tipo, 2
 kinder, 2
-beijo 2
+beijo, 2
 kudos, 3
-falta -2
-lackadaisical, -2
+falta, -2
 atraso, -1
 atrasado, -2
 atrasado, -2
 defasagens, -2
 coxo, -2
 marco, 2
-rir 1
+rir, 1
 riu, 1
 rindo, 1
 ri, 1
@@ -1418,7 +1416,7 @@ libelous, -2
 mentiu, -2
 salva-vidas, 4
 alegre, 1
-como 2
+como, 2
 gostei, 2
 gosta, 2
 limitação, -1
@@ -1440,7 +1438,6 @@ lol, 3
 solitário, -2
 solitário, -2
 saudade, -1
-tear, -1
 apareceu, -1
 iminente, -1
 teares, -1
@@ -1459,7 +1456,7 @@ amando, 2
 mais baixo, -1
 leal, 3
 lealdade, 3
-sorte 3
+sorte, 3
 por sorte, 3
 sorte, 3
 lúgubre, -2
@@ -1519,12 +1516,12 @@ enganoso, -3
 ler mal, -1
 relatório incorreto, -2
 deturpação, -2
-senhorita -2
+senhorita, -2
 perdido, -2
 ausente, -2
 erro, -2
 enganado, -2
-erros -2
+erros, -2
 confundindo, -2
 mal entendido, -2
 mal-entendido, -2
@@ -1544,7 +1541,6 @@ monopolizado, -2
 monopoliza, -2
 monopolizando, -2
 temperamental, -1
-Mope, -1
 deprimido, -1
 idiota, -3
 filho da puta, -5
@@ -1559,7 +1555,7 @@ triste, -2
 luto, -2
 chora, -2
 mumpish, -2
-assassinato -2
+assassinato, -2
 assassino, -2
 assassinato, -3
 assassino, -3
@@ -1568,10 +1564,10 @@ mito, -1
 n00b, -2
 ingênuo, -2
 desagradável, -3
-natural 1
+natural, 1
 ingênuo, -2
 carente, -2
-negativo -2
+negativo, -2
 negatividade, -2
 negligência, -2
 negligenciado, -2
@@ -1663,7 +1659,7 @@ patético, -2
 pagar, -1
 paz, 2
 pacífica, 2
-pacificamente 2
+pacificamente, 2
 penalidade, -2
 pensativo, -1
 perfeito, 3
@@ -1723,13 +1719,13 @@ adiamento, -1
 pobreza, -1
 poderoso, 2
 sem poder, -2
-louvor 3
+louvor, 3
 elogiado, 3
 louvores, 3
 louvando, 3
 rezar, 1
 orando, 1
-reza 1
+reza, 1
 prblm, -2
 prblms, -2
 preparado, 1
@@ -1738,18 +1734,18 @@ pressionado, -2
 fingir, -1
 fingindo, -1
 finge, -1
-bonito 1
+bonito, 1
 prevenir, -1
 impedido, -1
 impedindo, -1
-previne -1
+previne, -1
 pica, -5
 prisão, -2
 prisioneiro, -2
 prisioneiros, -2
 privilegiado, 2
 proativo, 2
-problema -2
+problema, -2
 problemas, -2
 aproveitador, -2
 progresso, 2
@@ -1784,7 +1780,7 @@ provoca, -1
 provocando, -1
 pseudociência, -3
 punir, -2
-castigado -2
+castigado, -2
 pune, -2
 punitivo, -2
 insistente, -1
@@ -1827,9 +1823,9 @@ recomendado, 2
 recomenda, 2
 resgatado, 2
 recusar, -2
-recusado -2
+recusado, -2
 recusando, -2
-arrependimento -2
+arrependimento, -2
 arrependido, -2
 arrependimentos, -2
 arrependido, -2
@@ -1874,15 +1870,15 @@ repousante, 2
 inquieto, -2
 restaurar, 1
 restaurado, 1
-restaura 1
+restaura, 1
 restaurando, 1
 restringir, -2
 restrito, -2
 restringindo, -2
-restrição -2
+restrição, -2
 restringe, -2
 retido, -1
-retardar -2
+retardar, -2
 retardado, -2
 retiro, -1
 vingança, -2
@@ -1890,7 +1886,7 @@ vingativo, -2
 reverenciado, 2
 revive, 2
 revive, 2
-recompensa 2
+recompensa, 2
 recompensado, 2
 recompensador, 2
 recompensas, 2
@@ -1910,13 +1906,7 @@ vestido, -2
 assalto, -2
 rouba, -2
 robusto, 2
-rofl, 4
-roflcopter, 4
-roflmao, 4
 romance, 2
-rotfl, 4
-rotflmfao, 4
-rotflol, 4
 ruína, -2
 arruinado, -2
 arruinando, -2
@@ -1933,7 +1923,7 @@ saliente, 1
 sappy, -1
 sarcástico, -2
 satisfeito, 2
-salvar 2
+salvar, 2
 salvo, 2
 golpe, -2
 golpes, -2
@@ -1966,12 +1956,12 @@ autoconfiante, 2
 auto-iludido, -2
 egoísta, -3
 egoísmo, -3
-frase -2
+frase, -2
 sentenciado, -2
 frases, -2
 sentenciamento -2
 sereno, 2
-severo -2
+severo, -2
 sexy, 3
 instável, -2
 vergonha, -2
@@ -1993,9 +1983,8 @@ míope, -2
 miopia, -2
 escassez, -2
 escassez, -2
-musaranho
 tímido, -1
-doente -2
+doente, -2
 suspiro, -2
 significado, 1
 significativo, 1
@@ -2006,7 +1995,6 @@ sinceramente, 2
 sinceramente, 2
 sinceridade, 2
 pecaminoso, -3
-Singleminded, -2
 cético, -2
 cético, -2
 ceticismo, -2
@@ -2019,7 +2007,6 @@ cortando, -2
 escravidão, -3
 insônia, -2
 liso, 2
-slicker, 2
 mais liso, 2
 lento, -2
 vagabunda, -5
@@ -2028,7 +2015,7 @@ mais inteligente, 2
 mais inteligente, 2
 esfregaço, -2
 sorriso, 2
-sorriu 2
+sorriu, 2
 sorrisos, 2
 sorrindo, 2
 smog, -2
